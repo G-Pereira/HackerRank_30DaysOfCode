@@ -1,4 +1,4 @@
-package com.hackerrank.thirtydaysofcode.Day8;
+package com.hackerrank.thirtydaysofcode.Day08;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.hackerrank.thirtydaysofcode.Day2;
+package com.hackerrank.thirtydaysofcode.Day02;
 
 import java.util.Scanner;
 

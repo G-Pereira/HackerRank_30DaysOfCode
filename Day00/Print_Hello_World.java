@@ -1,4 +1,4 @@
-package com.hackerrank.thirtydaysofcode.Day0;
+package com.hackerrank.thirtydaysofcode.Day00;
 
 public class Print_Hello_World {
     public static void main(String[] args) {

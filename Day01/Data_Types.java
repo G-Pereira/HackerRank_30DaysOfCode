@@ -1,4 +1,4 @@
-package com.hackerrank.thirtydaysofcode.Day1;
+package com.hackerrank.thirtydaysofcode.Day01;
 
 public class Data_Types {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.hackerrank.thirtydaysofcode.Day4;
+package com.hackerrank.thirtydaysofcode.Day04;
 
 public class Person {
 
